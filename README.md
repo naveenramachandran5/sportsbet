@@ -1,0 +1,1 @@
+some scripts to look into arbitrage from different sports betting websites. this is not a complete project just working through some different approaches to find specific cases of edge in betting various sports.
